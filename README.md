@@ -58,3 +58,8 @@ The project follows a complete data analysis workflow, including data import, da
 * Dashboard Design
 * Business Intelligence
 
+---
+
+## 📊 Retail Sales Dashboard Preview
+
+<img width="948" height="392" alt="Screenshot 2026-07-24 114832" src="https://github.com/user-attachments/assets/3c5ee3c3-4b95-409c-9f4a-8a5fd3d8011e" />
