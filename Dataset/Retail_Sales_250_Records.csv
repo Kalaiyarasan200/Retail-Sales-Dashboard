@@ -1,0 +1,251 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Category,Region,State,Quantity,UnitPrice,Discount,Sales,Cost,Profit,PaymentMethod
+O0001,2024-04-25,C025,Customer 65,P034,Rice,Grocery,West,Maharashtra,3,450,0.05,1282.5,945,337.5,Cash
+O0002,2024-11-07,C062,Customer 44,P015,Mouse,Electronics,South,Tamil Nadu,1,740,0.1,666,518,148,Card
+O0003,2025-04-14,C065,Customer 2,P002,Shoes,Fashion,West,Maharashtra,2,630,0,1260,882,378,Card
+O0004,2024-02-21,C035,Customer 65,P021,Chair,Furniture,East,West Bengal,5,940,0.15,3995,3290,705,Net Banking
+O0005,2024-09-04,C019,Customer 76,P022,Chair,Furniture,North,Delhi,4,260,0.15,884,728,156,UPI
+O0006,2024-08-20,C003,Customer 50,P007,Rice,Grocery,North,Delhi,3,850,0.1,2295,1785,510,Cash
+O0007,2024-06-24,C069,Customer 77,P016,Mouse,Electronics,South,Tamil Nadu,3,320,0.05,912,672,240,UPI
+O0008,2024-07-09,C015,Customer 30,P026,Shoes,Fashion,South,Tamil Nadu,1,200,0.1,180,140,40,Cash
+O0009,2025-03-03,C023,Customer 16,P035,Mouse,Electronics,South,Tamil Nadu,5,700,0.1,3150,2450,700,UPI
+O0010,2025-03-15,C031,Customer 8,P035,Laptop,Electronics,North,Delhi,5,780,0,3900,2730,1170,Card
+O0011,2024-02-11,C061,Customer 54,P022,Oil,Grocery,North,Delhi,4,390,0.15,1326,1092,234,Cash
+O0012,2024-03-21,C070,Customer 8,P030,Shelf,Furniture,West,Maharashtra,4,810,0,3240,2268,972,UPI
+O0013,2025-06-09,C012,Customer 80,P002,Chair,Furniture,West,Maharashtra,2,100,0.15,170,140,30,Cash
+O0014,2024-12-10,C005,Customer 54,P019,Laptop,Electronics,West,Maharashtra,3,160,0.15,408,336,72,Card
+O0015,2024-06-11,C042,Customer 55,P032,Oil,Grocery,West,Maharashtra,4,800,0,3200,2240,960,Cash
+O0016,2025-06-02,C055,Customer 9,P013,Shirt,Fashion,East,West Bengal,5,370,0.1,1665,1295,370,Card
+O0017,2025-02-01,C077,Customer 50,P005,Shirt,Fashion,South,Tamil Nadu,2,270,0.15,459,378,81,Net Banking
+O0018,2024-10-26,C034,Customer 57,P011,Rice,Grocery,East,West Bengal,5,660,0.05,3135,2310,825,Net Banking
+O0019,2025-05-25,C050,Customer 56,P019,Shirt,Fashion,West,Maharashtra,2,590,0,1180,826,354,Card
+O0020,2024-12-28,C048,Customer 53,P019,Jeans,Fashion,South,Tamil Nadu,5,850,0.05,4037.5,2975,1062.5,Net Banking
+O0021,2024-01-02,C042,Customer 45,P020,Oil,Grocery,North,Delhi,3,220,0.05,627,462,165,Card
+O0022,2025-02-02,C001,Customer 46,P032,Shelf,Furniture,South,Tamil Nadu,2,310,0.1,558,434,124,Net Banking
+O0023,2025-04-25,C044,Customer 43,P036,Keyboard,Electronics,West,Maharashtra,1,170,0.15,144.5,119,25.5,Cash
+O0024,2025-01-02,C066,Customer 25,P009,Jeans,Fashion,East,West Bengal,4,620,0.05,2356,1736,620,Net Banking
+O0025,2024-04-27,C076,Customer 49,P019,Mouse,Electronics,East,West Bengal,4,690,0,2760,1932,828,Card
+O0026,2025-04-23,C036,Customer 29,P017,Tea,Grocery,North,Delhi,4,270,0.15,918,756,162,Net Banking
+O0027,2024-02-25,C006,Customer 53,P018,Oil,Grocery,East,West Bengal,4,930,0.1,3348,2604,744,Cash
+O0028,2024-07-05,C039,Customer 75,P038,Shelf,Furniture,West,Maharashtra,2,780,0.15,1326,1092,234,UPI
+O0029,2024-05-28,C006,Customer 62,P022,Shelf,Furniture,East,West Bengal,4,790,0.15,2686,2212,474,Cash
+O0030,2024-02-08,C056,Customer 65,P020,Shirt,Fashion,North,Delhi,3,720,0.1,1944,1512,432,Cash
+O0031,2024-09-04,C054,Customer 19,P028,Oil,Grocery,West,Maharashtra,2,770,0,1540,1078,462,UPI
+O0032,2024-04-07,C001,Customer 70,P023,Oil,Grocery,North,Delhi,3,490,0.1,1323,1029,294,UPI
+O0033,2024-11-02,C009,Customer 57,P033,Shelf,Furniture,West,Maharashtra,3,950,0,2850,1995,855,Card
+O0034,2025-04-28,C043,Customer 5,P025,Jeans,Fashion,West,Maharashtra,1,390,0,390,273,117,Cash
+O0035,2024-11-09,C018,Customer 65,P028,Mouse,Electronics,South,Tamil Nadu,4,420,0,1680,1176,504,Net Banking
+O0036,2024-10-09,C031,Customer 53,P015,Shelf,Furniture,North,Delhi,4,180,0.1,648,504,144,Cash
+O0037,2024-06-16,C063,Customer 37,P029,Mouse,Electronics,West,Maharashtra,1,220,0.15,187,154,33,UPI
+O0038,2025-02-19,C022,Customer 79,P029,Tea,Grocery,North,Delhi,4,790,0.05,3002,2212,790,Cash
+O0039,2024-08-17,C022,Customer 27,P007,Laptop,Electronics,West,Maharashtra,3,840,0.1,2268,1764,504,UPI
+O0040,2025-02-18,C038,Customer 5,P004,Mouse,Electronics,West,Maharashtra,3,670,0.1,1809,1407,402,Cash
+O0041,2024-02-26,C034,Customer 31,P006,Jeans,Fashion,North,Delhi,1,550,0.05,522.5,385,137.5,Net Banking
+O0042,2025-05-24,C036,Customer 44,P021,Laptop,Electronics,North,Delhi,4,370,0.15,1258,1036,222,UPI
+O0043,2024-03-20,C061,Customer 52,P037,Shoes,Fashion,South,Tamil Nadu,2,540,0,1080,756,324,Cash
+O0044,2024-07-15,C014,Customer 9,P017,Shelf,Furniture,North,Delhi,4,120,0.05,456,336,120,Net Banking
+O0045,2024-12-24,C026,Customer 78,P037,Desk,Furniture,North,Delhi,3,980,0,2940,2058,882,Cash
+O0046,2024-09-16,C075,Customer 1,P002,Laptop,Electronics,East,West Bengal,5,540,0.15,2295,1890,405,Card
+O0047,2024-01-20,C001,Customer 29,P007,Shirt,Fashion,East,West Bengal,2,630,0,1260,882,378,Card
+O0048,2024-11-26,C044,Customer 62,P023,Shelf,Furniture,North,Delhi,3,670,0.15,1708.5,1407,301.5,Net Banking
+O0049,2025-04-01,C068,Customer 42,P014,Keyboard,Electronics,North,Delhi,1,460,0.15,391,322,69,Net Banking
+O0050,2024-03-07,C025,Customer 16,P028,Rice,Grocery,South,Tamil Nadu,2,190,0,380,266,114,Card
+O0051,2024-11-08,C020,Customer 36,P039,Desk,Furniture,North,Delhi,3,380,0,1140,798,342,UPI
+O0052,2025-04-23,C026,Customer 38,P009,Jeans,Fashion,East,West Bengal,3,660,0.15,1683,1386,297,UPI
+O0053,2024-10-24,C063,Customer 2,P014,Mouse,Electronics,West,Maharashtra,2,630,0.1,1134,882,252,Net Banking
+O0054,2024-02-28,C055,Customer 64,P008,Laptop,Electronics,North,Delhi,1,120,0.15,102,84,18,UPI
+O0055,2024-07-30,C042,Customer 49,P013,Mouse,Electronics,East,West Bengal,3,950,0.05,2707.5,1995,712.5,UPI
+O0056,2024-06-30,C015,Customer 45,P014,Desk,Furniture,West,Maharashtra,3,290,0.05,826.5,609,217.5,Cash
+O0057,2024-03-13,C042,Customer 21,P033,Mouse,Electronics,North,Delhi,1,490,0.05,465.5,343,122.5,Card
+O0058,2024-09-26,C055,Customer 65,P024,Rice,Grocery,North,Delhi,5,220,0.05,1045,770,275,Cash
+O0059,2024-03-16,C058,Customer 77,P019,Desk,Furniture,West,Maharashtra,2,830,0.05,1577,1162,415,Cash
+O0060,2024-11-11,C058,Customer 43,P029,Rice,Grocery,West,Maharashtra,2,640,0.15,1088,896,192,Cash
+O0061,2025-06-01,C077,Customer 34,P013,Shelf,Furniture,East,West Bengal,5,900,0.05,4275,3150,1125,Cash
+O0062,2024-12-02,C016,Customer 75,P017,Mouse,Electronics,East,West Bengal,1,630,0.1,567,441,126,Cash
+O0063,2024-08-21,C060,Customer 66,P024,Oil,Grocery,West,Maharashtra,3,360,0.05,1026,756,270,Card
+O0064,2024-08-22,C036,Customer 50,P006,Jeans,Fashion,North,Delhi,5,480,0,2400,1680,720,Cash
+O0065,2024-11-04,C042,Customer 57,P037,Shelf,Furniture,West,Maharashtra,4,250,0.05,950,700,250,Net Banking
+O0066,2024-02-19,C071,Customer 77,P017,Tea,Grocery,South,Tamil Nadu,4,720,0.15,2448,2016,432,Net Banking
+O0067,2024-01-21,C075,Customer 71,P022,Keyboard,Electronics,North,Delhi,1,520,0.15,442,364,78,Card
+O0068,2025-03-19,C026,Customer 35,P019,Keyboard,Electronics,West,Maharashtra,5,720,0.05,3420,2520,900,Net Banking
+O0069,2024-12-01,C054,Customer 59,P018,Keyboard,Electronics,North,Delhi,3,430,0.05,1225.5,903,322.5,UPI
+O0070,2024-03-30,C027,Customer 19,P032,Jeans,Fashion,South,Tamil Nadu,2,390,0.1,702,546,156,Card
+O0071,2025-03-25,C005,Customer 29,P004,Tea,Grocery,South,Tamil Nadu,2,620,0.15,1054,868,186,UPI
+O0072,2024-01-23,C051,Customer 53,P010,Shoes,Fashion,East,West Bengal,3,790,0.1,2133,1659,474,Net Banking
+O0073,2025-04-30,C064,Customer 11,P002,Shirt,Fashion,West,Maharashtra,1,640,0,640,448,192,UPI
+O0074,2024-11-18,C041,Customer 3,P037,Shelf,Furniture,South,Tamil Nadu,1,970,0.1,873,679,194,Cash
+O0075,2025-05-05,C050,Customer 74,P039,Jeans,Fashion,East,West Bengal,3,160,0.15,408,336,72,Card
+O0076,2024-02-20,C053,Customer 9,P011,Desk,Furniture,East,West Bengal,2,900,0,1800,1260,540,Cash
+O0077,2024-01-25,C080,Customer 49,P019,Mouse,Electronics,South,Tamil Nadu,2,360,0.05,684,504,180,Net Banking
+O0078,2024-03-16,C044,Customer 28,P002,Shirt,Fashion,East,West Bengal,4,580,0.15,1972,1624,348,UPI
+O0079,2025-06-11,C018,Customer 71,P008,Oil,Grocery,East,West Bengal,3,460,0.15,1173,966,207,UPI
+O0080,2024-06-01,C007,Customer 49,P020,Jeans,Fashion,East,West Bengal,4,1000,0,4000,2800,1200,Cash
+O0081,2025-02-24,C018,Customer 47,P033,Keyboard,Electronics,South,Tamil Nadu,3,830,0.1,2241,1743,498,Net Banking
+O0082,2024-04-04,C045,Customer 31,P026,Desk,Furniture,East,West Bengal,1,730,0.15,620.5,511,109.5,Card
+O0083,2025-06-08,C039,Customer 75,P030,Chair,Furniture,West,Maharashtra,5,650,0.1,2925,2275,650,Cash
+O0084,2024-08-16,C009,Customer 56,P022,Oil,Grocery,South,Tamil Nadu,4,120,0.1,432,336,96,UPI
+O0085,2025-05-11,C057,Customer 29,P035,Laptop,Electronics,East,West Bengal,3,580,0.1,1566,1218,348,Card
+O0086,2024-07-17,C006,Customer 66,P006,Shelf,Furniture,North,Delhi,2,410,0,820,574,246,Cash
+O0087,2025-04-19,C076,Customer 23,P029,Laptop,Electronics,West,Maharashtra,5,990,0.1,4455,3465,990,Cash
+O0088,2024-11-28,C019,Customer 50,P007,Jeans,Fashion,South,Tamil Nadu,2,260,0,520,364,156,Cash
+O0089,2025-06-07,C046,Customer 26,P001,Chair,Furniture,West,Maharashtra,1,360,0.1,324,252,72,Card
+O0090,2025-01-07,C003,Customer 14,P010,Tea,Grocery,West,Maharashtra,4,640,0,2560,1792,768,Card
+O0091,2024-11-23,C048,Customer 60,P033,Chair,Furniture,South,Tamil Nadu,4,240,0.1,864,672,192,Card
+O0092,2024-08-17,C061,Customer 58,P024,Oil,Grocery,East,West Bengal,5,180,0.1,810,630,180,Net Banking
+O0093,2024-06-30,C048,Customer 5,P028,Shelf,Furniture,North,Delhi,5,370,0.1,1665,1295,370,Cash
+O0094,2025-05-09,C020,Customer 3,P002,Keyboard,Electronics,West,Maharashtra,3,380,0,1140,798,342,Cash
+O0095,2024-08-04,C068,Customer 75,P014,Jeans,Fashion,North,Delhi,1,540,0.05,513,378,135,Net Banking
+O0096,2024-07-24,C010,Customer 2,P028,Mouse,Electronics,East,West Bengal,2,290,0.05,551,406,145,Net Banking
+O0097,2024-04-16,C046,Customer 36,P027,Jeans,Fashion,East,West Bengal,5,470,0.05,2232.5,1645,587.5,Cash
+O0098,2024-08-10,C069,Customer 51,P033,Shirt,Fashion,West,Maharashtra,5,340,0.05,1615,1190,425,Card
+O0099,2025-04-19,C025,Customer 4,P034,Tea,Grocery,South,Tamil Nadu,3,200,0.05,570,420,150,Net Banking
+O0100,2025-04-07,C068,Customer 72,P004,Laptop,Electronics,South,Tamil Nadu,1,540,0,540,378,162,Cash
+O0101,2024-12-08,C042,Customer 54,P023,Keyboard,Electronics,South,Tamil Nadu,2,770,0.15,1309,1078,231,UPI
+O0102,2024-11-01,C003,Customer 41,P015,Rice,Grocery,East,West Bengal,3,520,0.1,1404,1092,312,Cash
+O0103,2025-01-16,C035,Customer 61,P019,Tea,Grocery,South,Tamil Nadu,4,150,0.15,510,420,90,UPI
+O0104,2025-01-22,C062,Customer 7,P025,Desk,Furniture,South,Tamil Nadu,1,840,0,840,588,252,Cash
+O0105,2024-02-20,C053,Customer 35,P034,Shelf,Furniture,East,West Bengal,1,370,0.1,333,259,74,Net Banking
+O0106,2024-12-14,C080,Customer 52,P022,Shelf,Furniture,West,Maharashtra,4,210,0.05,798,588,210,Cash
+O0107,2024-07-16,C058,Customer 76,P021,Laptop,Electronics,South,Tamil Nadu,3,540,0,1620,1134,486,Card
+O0108,2024-03-28,C038,Customer 72,P020,Shoes,Fashion,North,Delhi,1,390,0.1,351,273,78,UPI
+O0109,2024-01-09,C005,Customer 15,P007,Chair,Furniture,North,Delhi,4,470,0,1880,1316,564,Card
+O0110,2025-03-27,C010,Customer 2,P015,Laptop,Electronics,East,West Bengal,5,270,0.15,1147.5,945,202.5,Cash
+O0111,2024-07-28,C059,Customer 75,P028,Shelf,Furniture,South,Tamil Nadu,5,130,0.15,552.5,455,97.5,Net Banking
+O0112,2024-01-31,C064,Customer 3,P020,Shoes,Fashion,North,Delhi,4,550,0.15,1870,1540,330,UPI
+O0113,2024-09-23,C032,Customer 29,P034,Desk,Furniture,East,West Bengal,4,480,0.1,1728,1344,384,Cash
+O0114,2024-05-09,C061,Customer 66,P018,Jeans,Fashion,West,Maharashtra,4,180,0,720,504,216,UPI
+O0115,2024-12-19,C002,Customer 50,P036,Mouse,Electronics,West,Maharashtra,1,250,0.15,212.5,175,37.5,Card
+O0116,2024-06-24,C056,Customer 17,P033,Shoes,Fashion,North,Delhi,5,930,0.15,3952.5,3255,697.5,Cash
+O0117,2025-01-27,C018,Customer 9,P004,Oil,Grocery,South,Tamil Nadu,2,840,0,1680,1176,504,Cash
+O0118,2024-01-07,C006,Customer 59,P001,Laptop,Electronics,South,Tamil Nadu,4,770,0,3080,2156,924,UPI
+O0119,2024-07-16,C042,Customer 58,P035,Shirt,Fashion,South,Tamil Nadu,3,410,0,1230,861,369,UPI
+O0120,2024-03-27,C027,Customer 67,P013,Mouse,Electronics,South,Tamil Nadu,5,730,0.15,3102.5,2555,547.5,Card
+O0121,2024-08-10,C008,Customer 47,P001,Laptop,Electronics,North,Delhi,5,170,0,850,595,255,Card
+O0122,2024-07-10,C042,Customer 7,P005,Shelf,Furniture,East,West Bengal,5,230,0.15,977.5,805,172.5,Net Banking
+O0123,2025-04-30,C075,Customer 47,P009,Desk,Furniture,West,Maharashtra,5,360,0.05,1710,1260,450,UPI
+O0124,2024-04-24,C078,Customer 48,P020,Desk,Furniture,South,Tamil Nadu,5,450,0.1,2025,1575,450,Card
+O0125,2025-04-12,C075,Customer 1,P012,Oil,Grocery,South,Tamil Nadu,1,750,0.1,675,525,150,Net Banking
+O0126,2025-04-23,C004,Customer 13,P015,Shirt,Fashion,West,Maharashtra,4,630,0.05,2394,1764,630,Net Banking
+O0127,2024-04-01,C017,Customer 37,P036,Oil,Grocery,North,Delhi,5,330,0,1650,1155,495,Net Banking
+O0128,2024-04-15,C025,Customer 6,P009,Tea,Grocery,West,Maharashtra,3,580,0,1740,1218,522,Cash
+O0129,2024-07-06,C073,Customer 57,P001,Shirt,Fashion,East,West Bengal,2,280,0,560,392,168,Card
+O0130,2024-04-30,C042,Customer 72,P033,Jeans,Fashion,North,Delhi,2,800,0,1600,1120,480,UPI
+O0131,2024-01-14,C004,Customer 35,P037,Chair,Furniture,North,Delhi,2,790,0.15,1343,1106,237,UPI
+O0132,2025-06-17,C067,Customer 55,P009,Tea,Grocery,North,Delhi,2,830,0.15,1411,1162,249,UPI
+O0133,2025-02-13,C002,Customer 4,P031,Shelf,Furniture,West,Maharashtra,2,750,0.15,1275,1050,225,UPI
+O0134,2024-02-14,C019,Customer 43,P006,Chair,Furniture,East,West Bengal,2,980,0,1960,1372,588,Cash
+O0135,2024-01-29,C032,Customer 48,P035,Shirt,Fashion,West,Maharashtra,1,710,0.05,674.5,497,177.5,Cash
+O0136,2025-01-17,C045,Customer 40,P009,Chair,Furniture,West,Maharashtra,2,950,0.15,1615,1330,285,UPI
+O0137,2024-05-09,C007,Customer 46,P025,Jeans,Fashion,South,Tamil Nadu,1,940,0,940,658,282,Cash
+O0138,2024-06-07,C027,Customer 64,P003,Mouse,Electronics,South,Tamil Nadu,2,490,0.05,931,686,245,UPI
+O0139,2025-05-15,C014,Customer 31,P014,Mouse,Electronics,West,Maharashtra,5,720,0.15,3060,2520,540,Net Banking
+O0140,2024-05-05,C001,Customer 43,P023,Mouse,Electronics,North,Delhi,1,960,0,960,672,288,Cash
+O0141,2024-10-06,C049,Customer 64,P036,Rice,Grocery,South,Tamil Nadu,3,1000,0.15,2550,2100,450,Net Banking
+O0142,2024-11-10,C044,Customer 10,P033,Keyboard,Electronics,North,Delhi,2,930,0.1,1674,1302,372,Net Banking
+O0143,2025-05-15,C017,Customer 29,P016,Chair,Furniture,South,Tamil Nadu,2,440,0.05,836,616,220,Card
+O0144,2024-11-26,C024,Customer 59,P002,Jeans,Fashion,North,Delhi,2,320,0.1,576,448,128,Cash
+O0145,2024-11-26,C043,Customer 42,P003,Rice,Grocery,South,Tamil Nadu,4,190,0.05,722,532,190,Net Banking
+O0146,2025-06-23,C037,Customer 6,P037,Jeans,Fashion,North,Delhi,1,650,0.15,552.5,455,97.5,Card
+O0147,2025-04-22,C065,Customer 70,P007,Rice,Grocery,West,Maharashtra,1,490,0.1,441,343,98,Net Banking
+O0148,2025-03-17,C018,Customer 9,P034,Rice,Grocery,East,West Bengal,1,770,0.05,731.5,539,192.5,Cash
+O0149,2024-01-09,C054,Customer 39,P018,Rice,Grocery,North,Delhi,5,370,0.15,1572.5,1295,277.5,Card
+O0150,2024-02-04,C021,Customer 63,P022,Rice,Grocery,South,Tamil Nadu,4,450,0.15,1530,1260,270,Card
+O0151,2024-09-16,C011,Customer 5,P018,Rice,Grocery,North,Delhi,3,220,0,660,462,198,Cash
+O0152,2024-11-01,C034,Customer 17,P001,Keyboard,Electronics,East,West Bengal,1,790,0.05,750.5,553,197.5,Net Banking
+O0153,2024-12-06,C038,Customer 76,P030,Mouse,Electronics,South,Tamil Nadu,4,830,0.05,3154,2324,830,Card
+O0154,2025-01-09,C054,Customer 38,P010,Shirt,Fashion,West,Maharashtra,3,720,0.1,1944,1512,432,UPI
+O0155,2025-02-19,C065,Customer 9,P024,Jeans,Fashion,West,Maharashtra,5,350,0.05,1662.5,1225,437.5,Cash
+O0156,2024-04-14,C007,Customer 62,P039,Shelf,Furniture,West,Maharashtra,3,360,0.15,918,756,162,Card
+O0157,2024-06-22,C049,Customer 44,P003,Rice,Grocery,North,Delhi,1,210,0.05,199.5,147,52.5,Net Banking
+O0158,2024-09-26,C022,Customer 79,P017,Chair,Furniture,West,Maharashtra,3,460,0.15,1173,966,207,Net Banking
+O0159,2024-04-09,C010,Customer 40,P019,Keyboard,Electronics,East,West Bengal,1,740,0.15,629,518,111,Cash
+O0160,2024-05-23,C075,Customer 19,P002,Desk,Furniture,East,West Bengal,3,440,0.05,1254,924,330,Net Banking
+O0161,2024-09-18,C007,Customer 75,P014,Chair,Furniture,North,Delhi,1,440,0.1,396,308,88,Net Banking
+O0162,2024-01-03,C070,Customer 6,P003,Jeans,Fashion,West,Maharashtra,3,340,0,1020,714,306,UPI
+O0163,2024-10-17,C004,Customer 78,P004,Mouse,Electronics,South,Tamil Nadu,3,580,0.05,1653,1218,435,Net Banking
+O0164,2024-05-30,C030,Customer 64,P014,Shelf,Furniture,North,Delhi,1,930,0,930,651,279,Card
+O0165,2025-05-12,C005,Customer 64,P009,Laptop,Electronics,West,Maharashtra,3,150,0,450,315,135,Net Banking
+O0166,2025-05-15,C018,Customer 77,P037,Rice,Grocery,South,Tamil Nadu,5,180,0.1,810,630,180,UPI
+O0167,2024-07-05,C044,Customer 63,P010,Oil,Grocery,West,Maharashtra,1,480,0,480,336,144,Cash
+O0168,2024-04-08,C061,Customer 56,P011,Rice,Grocery,North,Delhi,4,190,0.1,684,532,152,Cash
+O0169,2024-04-07,C001,Customer 48,P009,Rice,Grocery,East,West Bengal,2,770,0.15,1309,1078,231,Net Banking
+O0170,2025-03-19,C020,Customer 58,P018,Oil,Grocery,East,West Bengal,2,630,0,1260,882,378,Net Banking
+O0171,2024-02-09,C012,Customer 63,P007,Keyboard,Electronics,North,Delhi,2,710,0.1,1278,994,284,Net Banking
+O0172,2025-01-07,C047,Customer 38,P024,Rice,Grocery,South,Tamil Nadu,2,740,0.05,1406,1036,370,Card
+O0173,2024-01-31,C056,Customer 57,P019,Shelf,Furniture,East,West Bengal,4,910,0.05,3458,2548,910,Net Banking
+O0174,2024-11-15,C038,Customer 60,P025,Desk,Furniture,South,Tamil Nadu,5,980,0.15,4165,3430,735,Cash
+O0175,2024-04-09,C070,Customer 72,P007,Shirt,Fashion,North,Delhi,3,910,0.15,2320.5,1911,409.5,Cash
+O0176,2024-11-15,C045,Customer 27,P002,Oil,Grocery,West,Maharashtra,4,460,0.15,1564,1288,276,Card
+O0177,2024-06-25,C044,Customer 23,P004,Rice,Grocery,West,Maharashtra,3,1000,0.15,2550,2100,450,Cash
+O0178,2025-04-25,C065,Customer 41,P032,Shoes,Fashion,West,Maharashtra,3,120,0,360,252,108,Card
+O0179,2024-12-26,C058,Customer 55,P026,Desk,Furniture,West,Maharashtra,3,890,0.1,2403,1869,534,Net Banking
+O0180,2024-03-16,C031,Customer 54,P019,Desk,Furniture,East,West Bengal,2,890,0.1,1602,1246,356,Cash
+O0181,2024-11-17,C005,Customer 59,P018,Chair,Furniture,North,Delhi,5,580,0.05,2755,2030,725,Card
+O0182,2024-01-25,C040,Customer 14,P022,Chair,Furniture,East,West Bengal,3,790,0.1,2133,1659,474,Net Banking
+O0183,2024-05-12,C067,Customer 16,P028,Oil,Grocery,South,Tamil Nadu,2,190,0.15,323,266,57,Net Banking
+O0184,2024-09-30,C045,Customer 23,P028,Chair,Furniture,East,West Bengal,2,440,0,880,616,264,Cash
+O0185,2024-06-10,C024,Customer 32,P013,Laptop,Electronics,East,West Bengal,4,970,0.1,3492,2716,776,Cash
+O0186,2025-02-04,C006,Customer 68,P020,Oil,Grocery,East,West Bengal,1,540,0.05,513,378,135,Card
+O0187,2024-02-26,C046,Customer 32,P030,Rice,Grocery,North,Delhi,5,390,0.15,1657.5,1365,292.5,Net Banking
+O0188,2024-06-02,C013,Customer 5,P008,Shoes,Fashion,East,West Bengal,3,660,0.1,1782,1386,396,Net Banking
+O0189,2024-01-22,C036,Customer 14,P004,Tea,Grocery,North,Delhi,4,1000,0.05,3800,2800,1000,UPI
+O0190,2024-04-01,C039,Customer 49,P003,Oil,Grocery,North,Delhi,5,140,0,700,490,210,UPI
+O0191,2024-06-06,C053,Customer 68,P034,Shoes,Fashion,East,West Bengal,1,930,0.1,837,651,186,Card
+O0192,2024-06-17,C064,Customer 16,P038,Keyboard,Electronics,East,West Bengal,1,370,0,370,259,111,Cash
+O0193,2025-05-29,C069,Customer 41,P024,Mouse,Electronics,East,West Bengal,4,470,0.05,1786,1316,470,Net Banking
+O0194,2024-09-06,C063,Customer 11,P040,Shelf,Furniture,East,West Bengal,5,180,0.05,855,630,225,Card
+O0195,2025-02-28,C039,Customer 23,P007,Shelf,Furniture,North,Delhi,3,400,0,1200,840,360,UPI
+O0196,2025-02-15,C037,Customer 23,P023,Shelf,Furniture,North,Delhi,1,570,0,570,399,171,Cash
+O0197,2024-01-02,C002,Customer 48,P028,Tea,Grocery,West,Maharashtra,2,870,0.05,1653,1218,435,UPI
+O0198,2024-09-14,C018,Customer 14,P038,Shelf,Furniture,East,West Bengal,2,160,0,320,224,96,Card
+O0199,2025-05-09,C028,Customer 53,P037,Rice,Grocery,North,Delhi,5,350,0,1750,1225,525,UPI
+O0200,2025-03-05,C050,Customer 26,P010,Keyboard,Electronics,West,Maharashtra,5,350,0.05,1662.5,1225,437.5,Net Banking
+O0201,2025-06-18,C050,Customer 6,P027,Mouse,Electronics,West,Maharashtra,5,940,0.1,4230,3290,940,UPI
+O0202,2025-04-14,C077,Customer 30,P005,Tea,Grocery,West,Maharashtra,2,570,0,1140,798,342,Card
+O0203,2025-02-25,C076,Customer 74,P023,Shirt,Fashion,East,West Bengal,2,800,0.1,1440,1120,320,Card
+O0204,2024-08-29,C054,Customer 35,P028,Tea,Grocery,South,Tamil Nadu,3,150,0.05,427.5,315,112.5,UPI
+O0205,2024-06-24,C041,Customer 33,P019,Desk,Furniture,South,Tamil Nadu,2,780,0.15,1326,1092,234,Cash
+O0206,2024-02-28,C022,Customer 65,P004,Oil,Grocery,West,Maharashtra,1,310,0.1,279,217,62,UPI
+O0207,2024-03-14,C022,Customer 62,P031,Chair,Furniture,North,Delhi,5,160,0.05,760,560,200,UPI
+O0208,2024-09-09,C062,Customer 59,P026,Shelf,Furniture,North,Delhi,2,150,0.1,270,210,60,UPI
+O0209,2024-06-03,C068,Customer 78,P038,Shirt,Fashion,West,Maharashtra,5,940,0.05,4465,3290,1175,UPI
+O0210,2025-05-19,C015,Customer 56,P033,Shirt,Fashion,South,Tamil Nadu,2,310,0.15,527,434,93,UPI
+O0211,2024-01-16,C033,Customer 29,P025,Jeans,Fashion,East,West Bengal,2,940,0.15,1598,1316,282,Card
+O0212,2024-07-27,C046,Customer 27,P003,Jeans,Fashion,South,Tamil Nadu,5,200,0.1,900,700,200,Net Banking
+O0213,2024-08-06,C035,Customer 57,P002,Rice,Grocery,West,Maharashtra,2,180,0.1,324,252,72,Net Banking
+O0214,2024-09-28,C018,Customer 10,P027,Laptop,Electronics,West,Maharashtra,2,640,0.15,1088,896,192,UPI
+O0215,2024-06-28,C052,Customer 47,P008,Laptop,Electronics,West,Maharashtra,4,140,0,560,392,168,UPI
+O0216,2024-06-13,C041,Customer 54,P008,Jeans,Fashion,East,West Bengal,5,900,0.15,3825,3150,675,Net Banking
+O0217,2024-12-23,C015,Customer 69,P014,Keyboard,Electronics,East,West Bengal,5,480,0.15,2040,1680,360,Card
+O0218,2025-04-10,C033,Customer 2,P026,Shirt,Fashion,East,West Bengal,5,840,0.1,3780,2940,840,UPI
+O0219,2024-11-04,C049,Customer 77,P019,Rice,Grocery,South,Tamil Nadu,5,360,0,1800,1260,540,Card
+O0220,2025-01-08,C027,Customer 53,P012,Shelf,Furniture,South,Tamil Nadu,1,950,0,950,665,285,Cash
+O0221,2025-01-29,C044,Customer 53,P033,Chair,Furniture,South,Tamil Nadu,2,990,0,1980,1386,594,UPI
+O0222,2025-04-18,C072,Customer 68,P018,Chair,Furniture,South,Tamil Nadu,4,870,0,3480,2436,1044,Net Banking
+O0223,2024-04-20,C074,Customer 25,P022,Laptop,Electronics,West,Maharashtra,1,910,0.1,819,637,182,Cash
+O0224,2024-11-18,C042,Customer 3,P008,Tea,Grocery,West,Maharashtra,5,990,0.15,4207.5,3465,742.5,Card
+O0225,2025-03-17,C060,Customer 79,P013,Mouse,Electronics,South,Tamil Nadu,5,510,0.1,2295,1785,510,Net Banking
+O0226,2024-12-10,C067,Customer 10,P025,Jeans,Fashion,East,West Bengal,4,470,0,1880,1316,564,Cash
+O0227,2024-12-07,C022,Customer 16,P026,Chair,Furniture,North,Delhi,5,980,0.05,4655,3430,1225,Net Banking
+O0228,2024-08-17,C013,Customer 10,P013,Jeans,Fashion,North,Delhi,1,610,0,610,427,183,Cash
+O0229,2025-05-29,C007,Customer 42,P015,Desk,Furniture,North,Delhi,2,540,0.15,918,756,162,UPI
+O0230,2024-01-23,C063,Customer 28,P021,Keyboard,Electronics,East,West Bengal,5,670,0,3350,2345,1005,UPI
+O0231,2024-04-24,C062,Customer 27,P009,Shirt,Fashion,North,Delhi,2,810,0.05,1539,1134,405,Cash
+O0232,2024-06-11,C014,Customer 73,P018,Desk,Furniture,South,Tamil Nadu,3,420,0,1260,882,378,Cash
+O0233,2025-03-01,C052,Customer 49,P027,Shoes,Fashion,West,Maharashtra,3,900,0.1,2430,1890,540,UPI
+O0234,2024-05-03,C021,Customer 17,P025,Oil,Grocery,East,West Bengal,2,340,0.15,578,476,102,Card
+O0235,2025-02-22,C011,Customer 16,P013,Tea,Grocery,North,Delhi,3,980,0.05,2793,2058,735,Card
+O0236,2025-06-24,C036,Customer 77,P010,Tea,Grocery,West,Maharashtra,1,710,0.15,603.5,497,106.5,Cash
+O0237,2025-02-19,C041,Customer 48,P022,Laptop,Electronics,East,West Bengal,2,1000,0.15,1700,1400,300,Net Banking
+O0238,2025-02-23,C025,Customer 55,P026,Shoes,Fashion,South,Tamil Nadu,4,200,0.15,680,560,120,Card
+O0239,2024-01-20,C018,Customer 75,P006,Desk,Furniture,West,Maharashtra,2,650,0.05,1235,910,325,Card
+O0240,2024-06-07,C051,Customer 19,P014,Desk,Furniture,East,West Bengal,5,550,0.05,2612.5,1925,687.5,Cash
+O0241,2024-02-02,C066,Customer 43,P014,Oil,Grocery,South,Tamil Nadu,4,550,0.1,1980,1540,440,Net Banking
+O0242,2025-03-04,C005,Customer 65,P024,Mouse,Electronics,West,Maharashtra,2,770,0.05,1463,1078,385,Card
+O0243,2025-06-22,C006,Customer 33,P016,Shirt,Fashion,South,Tamil Nadu,5,240,0,1200,840,360,Card
+O0244,2024-11-07,C054,Customer 61,P027,Laptop,Electronics,North,Delhi,4,910,0.15,3094,2548,546,Cash
+O0245,2025-03-05,C055,Customer 61,P023,Desk,Furniture,West,Maharashtra,5,710,0.05,3372.5,2485,887.5,UPI
+O0246,2024-11-24,C015,Customer 10,P027,Tea,Grocery,West,Maharashtra,5,320,0.05,1520,1120,400,Net Banking
+O0247,2024-04-10,C052,Customer 47,P032,Mouse,Electronics,North,Delhi,5,550,0,2750,1925,825,Card
+O0248,2025-06-03,C075,Customer 21,P032,Shelf,Furniture,East,West Bengal,5,450,0.05,2137.5,1575,562.5,UPI
+O0249,2025-01-29,C052,Customer 40,P023,Rice,Grocery,East,West Bengal,4,450,0.05,1710,1260,450,Cash
+O0250,2025-05-22,C030,Customer 19,P032,Laptop,Electronics,East,West Bengal,4,520,0.1,1872,1456,416,UPI
